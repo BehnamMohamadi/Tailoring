@@ -1,0 +1,8 @@
+node_modules/
+dist/
+outputs/
+.dev.vars
+.env
+data/
+.admin-access.txt
+*.log
